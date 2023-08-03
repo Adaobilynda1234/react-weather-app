@@ -1,17 +1,18 @@
 import React from "react";
-import Weather from "./Weather";
+import WeatherSearch from "./WeatherSearch";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <WeatherSearch />
         <footer>
           This project was coded by
           <a
             href="https://github.com/Adaobilynda1234/react-weather-app.git"
-            target="_blank"
+            target="_blank "
+            rel="noopener"
           >
             {" "}
             Adaobi Lynda
@@ -20,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/Adaobilynda1234/react-weather-app.git"
             target="_blank"
+            rel="noopener"
           >
             open-sourced on Github
           </a>
