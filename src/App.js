@@ -11,8 +11,8 @@ export default function App() {
           This project was coded by
           <a
             href="https://github.com/Adaobilynda1234/react-weather-app.git"
-            target="_blank "
-            rel="noopener"
+            target="_blank"
+            rel="noreferrer"
           >
             {" "}
             Adaobi Lynda
@@ -21,7 +21,7 @@ export default function App() {
           <a
             href="https://github.com/Adaobilynda1234/react-weather-app.git"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
